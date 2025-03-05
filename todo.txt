@@ -1,0 +1,6 @@
+1. Normalize URLs
+2. Extract ALL URLs from HTML
+3. Web Client to Get HTML, remember to save visited URLs
+4. Recursively get html from unvisited links.
+5. Add Concurrency.
+6. Save to database.
